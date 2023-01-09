@@ -8,4 +8,4 @@ The list of IP addresses that have failed 3 or more times will appear in the out
 command line execution:
 $ java Fail2Ban logs_processed.txt output.txt
 
-!! This was a homework assingment for Intro to Programming in Java
+!! This was a homework assignment for Intro to Programming in Java
